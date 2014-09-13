@@ -1,0 +1,63 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "TeamAcid",
+    "longName": "FitGoals",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/stopwath.png",
+                "name": "stopwatch",
+                "type": "png"
+            },
+            {
+                "file": "images/stop.png",
+                "name": "stop",
+                "type": "png"
+            },
+            {
+                "file": "images/x.png",
+                "name": "x",
+                "type": "png"
+            },
+            {
+                "file": "images/workout.png",
+                "name": "workout",
+                "type": "png"
+            },
+            {
+                "file": "images/stetch.png",
+                "name": "stretch",
+                "type": "png"
+            },
+            {
+                "file": "images/pedometer.png",
+                "name": "ped",
+                "type": "png"
+            },
+            {
+                "file": "images/headphones.png",
+                "name": "phones",
+                "type": "png"
+            },
+            {
+                "file": "images/counter.png",
+                "name": "count",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "FitGoals",
+    "uuid": "4d8f3949-4539-47bc-9426-522b356bad13",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
